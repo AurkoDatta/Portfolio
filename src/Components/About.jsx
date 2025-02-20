@@ -39,7 +39,7 @@ export default function About() {
                         <li>Git/GitHub</li>
                         <li>Docker</li>
                         <li>Data Structures and Algorithms Knowledge</li>
-                        <li>REST</li>
+                        <li>REST APIs</li>
                     </ul>
                 </div>
             </div>
