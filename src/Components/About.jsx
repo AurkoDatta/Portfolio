@@ -75,13 +75,13 @@ export default function About() {
                     </svg>
                 </a>
 
-                <a href="https://fiverr.com" className="icon-link" target="_blank" rel="noreferrer">
+                <a href="http://www.fiverr.com/s/99k6BYE" className="icon-link" target="_blank" rel="noreferrer">
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="white">
                         <path d="M23.004 2.709c-.487 0-.883.396-.883.883v3.736c0 .487.396.883.883.883h1.47c.487 0 .883-.396.883-.883V3.592c0-.487-.396-.883-.883-.883h-1.47zm-5.294 0c-.487 0-.883.396-.883.883v3.736c0 .487.396.883.883.883h1.47c.487 0 .883-.396.883-.883V3.592c0-.487-.396-.883-.883-.883h-1.47zm-5.293 0c-.487 0-.883.396-.883.883v3.736c0 .487.396.883.883.883h1.47c.487 0 .883-.396.883-.883V3.592c0-.487-.396-.883-.883-.883h-1.47zm-5.293 0c-.487 0-.883.396-.883.883v3.736c0 .487.396.883.883.883h1.47c.487 0 .883-.396.883-.883V3.592c0-.487-.396-.883-.883-.883h-1.47zM.883 2.709c-.487 0-.883.396-.883.883v3.736c0 .487.396.883.883.883h1.47c.487 0 .883-.396.883-.883V3.592c0-.487-.396-.883-.883-.883H.883zM0 16.294v4.705h24v-4.705H0z"/>
                     </svg>
                 </a>
 
-                <a href="https://freelancer.com" className="icon-link" target="_blank" rel="noreferrer">
+                <a href="https://www.freelancer.com/u/aurkodatta" className="icon-link" target="_blank" rel="noreferrer">
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="white">
                         <path d="M14.096 3.076l1.634 2.292L24 3.076M16.27 2.269l3.464 2.926 1.732-1-3.464-2.926-1.732 1zm-5.001 0l3.464 2.926 1.732-1-3.464-2.926-1.732 1zM4.154 8.424l1.732 1 1.732-1-1.732-1-1.732 1zm13.66 0l1.732 1 1.732-1-1.732-1-1.732 1zm-7.86 12.612h-2v-2h2v2zm0-4h-2v-2h2v2zm0-4h-2v-2h2v2zm0-4h-2v-2h2v2zm4 12h-2v-2h2v2zm0-4h-2v-2h2v2zm0-4h-2v-2h2v2zm0-4h-2v-2h2v2z"/>
                     </svg>
