@@ -2,6 +2,8 @@ GitHub Repository for my portfolio website.
 
 Projects page contains placeholders for upcoming projects that I plan to do.
 
+All SVGs for icons on the About page were obtained from external sources.
+
 To run:
 - Make sure Node and NPM are both installed
 - Clone the repo
